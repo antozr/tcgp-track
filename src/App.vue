@@ -208,7 +208,7 @@ function hoverViewCatLine(event) {
     if (chnageColor === true) {
       newShopAll.forEach(el => (
         console.log(el),
-        el.classList.add('tab__row--mission')
+        el.classList.add('tab__row--promo')
 
       ))
     }
@@ -219,7 +219,7 @@ function hoverViewCatLine(event) {
     
     for (let index = 0; index < allROwLigne.length; index++) {
 
-      if (allROwLigne[index].ariaLabel == "Wonder pick") {
+      if (allROwLigne[index].ariaLabel == "Wonder Pick") {
         newShopAll.push(allROwLigne[index]);
         nameCat = 'Shop';
         console.log(newShopAll);
@@ -232,12 +232,15 @@ function hoverViewCatLine(event) {
     if (chnageColor === true) {
       newShopAll.forEach(el => (
         console.log(el),
-        el.classList.add('tab__row--mission')
+        el.classList.add('tab__row--wonder')
 
       ))
     }
 
   } 
+  if (event.target.id == "Total"){
+    underHoverCatLine()
+  }
 }
 
 function underHoverCatLine(event) {
@@ -246,6 +249,8 @@ function underHoverCatLine(event) {
     el.classList.remove('tab__row--opa');
     el.classList.remove('tab__row--shop');
     el.classList.remove('tab__row--mission');
+    el.classList.remove('tab__row--promo');
+    el.classList.remove('tab__row--wonder');
   })
 }
 /////
@@ -396,7 +401,7 @@ function UpdateTrueCard(event) {
         </thead>
         <tbody>
           <tr v-for="(item, itemIndex) in dataResult" :key="itemIndex" @mouseenter="hoverViewCatLine"
-            @mouseleave="underHoverCatLine" :id="item.rowName">
+            @mouseleave="underHoverCatLine" :id="item.rowName" class="tab__rowCatL">
 
             <td v-for="(label, labelIndex) in labelsResult" :key="labelIndex">
 
@@ -502,6 +507,10 @@ function UpdateTrueCard(event) {
 }
 
 .tab {
+
+  &__rowCatL{
+    cursor: pointer;
+  }
   &__row {
     transition: 0.6s ease-in;
 
@@ -520,6 +529,18 @@ function UpdateTrueCard(event) {
     &--mission {
       transition: 0.6s ease-out;
       background: rgb(250, 240, 155);
+      color: #1d1d1d;
+      opacity: 1;
+    }
+    &--wonder {
+      transition: 0.6s ease-out;
+      background: rgb(147, 253, 152);
+      color: #1d1d1d;
+      opacity: 1;
+    }
+    &--promo {
+      transition: 0.6s ease-out;
+      background: rgb(255, 166, 248);
       color: #1d1d1d;
       opacity: 1;
     }
