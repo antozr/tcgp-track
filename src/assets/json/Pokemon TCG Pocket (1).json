@@ -1,0 +1,218 @@
+[
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 001",
+        "Card": "Potion",
+        "Pack": "Shop",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 002",
+        "Card": "X speed",
+        "Pack": "Shop",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 003",
+        "Card": "Hand scope",
+        "Pack": "Shop",
+        "Notes": null,
+        "# of cards": "0",
+        "": "Fraction"
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 004",
+        "Card": "Pokedex",
+        "Pack": "Shop",
+        "Notes": null,
+        "# of cards": "0",
+        "": "19/25"
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 005",
+        "Card": "Poke ball",
+        "Pack": "Shop",
+        "Notes": null,
+        "# of cards": "0",
+        "": "7/8"
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 006",
+        "Card": "Red card",
+        "Pack": "Shop",
+        "Notes": null,
+        "# of cards": "0",
+        "": "0/1"
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 007",
+        "Card": "Professor's Research",
+        "Pack": "Shop",
+        "Notes": null,
+        "# of cards": "0",
+        "": "9/10"
+    },
+    {
+        "Column 1": "FALSE",
+        "Card ID": "P-A 008",
+        "Card": "???",
+        "Pack": "???",
+        "Notes": "For some reason, this card is always hidden",
+        "# of cards": "0",
+        "": "3/4"
+    },
+    {
+        "Column 1": "FALSE",
+        "Card ID": "P-A 009",
+        "Card": "Pikachu",
+        "Pack": "Shop",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "FALSE",
+        "Card ID": "P-A 010",
+        "Card": "Mewtwo",
+        "Pack": "Mission",
+        "Notes": "Method unknown",
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 011",
+        "Card": "Chansey",
+        "Pack": "Wonder Pick",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 012",
+        "Card": "Meowth",
+        "Pack": "Wonder Pick",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 013",
+        "Card": "Butterfree",
+        "Pack": "Promo pack",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 014",
+        "Card": "Lapras ex",
+        "Pack": "Promo pack",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 015",
+        "Card": "Pikachu",
+        "Pack": "Promo pack",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 016",
+        "Card": "Clefairy",
+        "Pack": "Promo pack",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 017",
+        "Card": "Mankey",
+        "Pack": "Promo pack",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 018",
+        "Card": "Venusaur",
+        "Pack": "Promo pack",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "FALSE",
+        "Card ID": "P-A 019",
+        "Card": "Greninja",
+        "Pack": "Promo pack",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 020",
+        "Card": "Haunter",
+        "Pack": "Promo pack",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 021",
+        "Card": "Onix",
+        "Pack": "Promo pack",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 022",
+        "Card": "Jigglypuff",
+        "Pack": "Promo pack",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "FALSE",
+        "Card ID": "P-A 023",
+        "Card": "Bulbasaur",
+        "Pack": "Wonder Pick",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    },
+    {
+        "Column 1": "TRUE",
+        "Card ID": "P-A 024",
+        "Card": "Magnemite",
+        "Pack": "Wonder Pick",
+        "Notes": null,
+        "# of cards": "0",
+        "": null
+    }
+]

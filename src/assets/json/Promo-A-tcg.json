@@ -1,0 +1,175 @@
+[
+
+
+    {
+        "id": 1,
+        "card- ID": "P-A 001",
+        "name": "Potion",
+        "pack": "Shop",
+        "numbers": 0
+    },
+    {
+        "id": 2,
+        "card- ID": "P-A 002",
+        "name": "X speed",
+        "pack": "Shop",
+        "numbers": 0
+    },
+    {
+        "id": 3,
+        "card- ID": "P-A 003",
+        "name": "Hand scope",
+        "pack": "Shop",
+
+        "numbers": 0
+    },
+    {
+        "id": 4,
+        "card- ID": "P-A 004",
+        "name": "Pokedex",
+        "pack": "Shop",
+        "numbers": 0
+    },
+    {
+        "id": 5,
+        "card- ID": "P-A 005",
+        "name": "Poke ball",
+        "pack": "Shop",
+        "numbers": 0
+    },
+    {
+        "id": 6,
+        "card- ID": "P-A 006",
+        "name": "Red name",
+        "pack": "Shop",
+        "numbers": 0
+    },
+    {
+        "id": 7,
+        "card- ID": "P-A 007",
+        "name": "Professor's Research",
+        "pack": "Shop",
+        "numbers": 0
+    },
+    {
+        "id": 8,
+        "card- ID": "P-A 008",
+        "name": "???",
+        "pack": "???",
+        "numbers": 0
+    },
+    {
+        "id": 9,
+        "card- ID": "P-A 009",
+        "name": "Pikachu",
+        "pack": "Shop",
+        "numbers": 0
+    },
+    {
+        "id": 10,
+        "card- ID": "P-A 010",
+        "name": "Mewtwo",
+        "pack": "Mission",
+
+        "numbers": 0
+    },
+    {
+       "id": 11,
+        "card- ID": "P-A 011",
+        "name": "Chansey",
+        "pack": "Wonder Pick",
+        "numbers": 0
+    },
+    {
+        "id": 12,
+        "card- ID": "P-A 012",
+        "name": "Meowth",
+        "pack": "Wonder Pick",
+        "numbers": 0
+    },
+    {
+        "id": 13,
+        "card- ID": "P-A 013",
+        "name": "Butterfree",
+        "pack": "Promo pack",
+        "numbers": 0
+    },
+    {
+        "id": 14,
+        "card- ID": "P-A 014",
+        "name": "Lapras ex",
+        "pack": "Promo pack",
+        "numbers": 0
+    },
+    {
+        "id": 15,
+        "card- ID": "P-A 015",
+        "name": "Pikachu",
+        "pack": "Promo pack",
+        "numbers": 0
+    },
+    {
+       "id": 16,
+        "card- ID": "P-A 016",
+        "name": "Clefairy",
+        "pack": "Promo pack",
+        "numbers": 0
+    },
+    {
+       "id": 17,
+        "card- ID": "P-A 017",
+        "name": "Mankey",
+        "pack": "Promo pack",
+        "numbers": 0
+    },
+    {
+       "id": 18,
+        "card- ID": "P-A 018",
+        "name": "Venusaur",
+        "pack": "Promo pack",
+        "numbers": 0
+    },
+    {
+        "id": 19,
+        "card- ID": "P-A 019",
+        "name": "Greninja",
+        "pack": "Promo pack",
+        "numbers": 0
+    },
+    {
+       "id": 20,
+        "card- ID": "P-A 020",
+        "name": "Haunter",
+        "pack": "Promo pack",
+        "numbers": 0
+    },
+    {
+        "id": 21,
+        "card- ID": "P-A 021",
+        "name": "Onix",
+        "pack": "Promo pack",
+        "numbers": 0
+    },
+    {
+        "id": 22,
+        "card- ID": "P-A 022",
+        "name": "Jigglypuff",
+        "pack": "Promo pack",
+        "numbers": 0
+    },
+    {
+        "id": 23,
+        "card- ID": "P-A 023",
+        "name": "Bulbasaur",
+        "pack": "Wonder Pick",
+        "numbers": 0
+    },
+    {
+        "id": 24,
+        "card- ID": "P-A 024",
+        "name": "Magnemite",
+        "pack": "Wonder Pick",
+        "numbers": 0
+    }
+
+]
